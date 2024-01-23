@@ -1,5 +1,5 @@
 # crypto-tracker
-Price Tracker React App
+Cryptocurrency Price Tracking App to learn React further
 
 
 ### Technologies Used:
